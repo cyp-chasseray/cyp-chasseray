@@ -6,4 +6,6 @@ I am just out of a 3 months intensive coding and Data Science bootcamp at le Wag
 
 Currently refining my skills in Data and learning Django. 
 
-Open to share ideas and discuss opportunities. 
+Open to share ideas and discuss opportunities 🤝
+
+My main language is Python but I am happy to switch and learn if the project is right!
